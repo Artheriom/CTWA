@@ -385,24 +385,108 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":455,
-         "source":"src\/assets\/ct.tsx"
+         "image":"src\/assets\/ct.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"ct",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":583,
-         "source":"src\/assets\/fantasy.tsx"
+         "image":"src\/assets\/fantasy.png",
+         "imageheight":288,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":655,
-         "source":"src\/assets\/modern.tsx"
+         "image":"src\/assets\/modern.png",
+         "imageheight":224,
+         "imagewidth":320,
+         "margin":0,
+         "name":"modern",
+         "spacing":0,
+         "tilecount":70,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":725,
-         "source":"src\/assets\/modernset_interior.tsx"
+         "image":"src\/assets\/modernset_interior.png",
+         "imageheight":1600,
+         "imagewidth":512,
+         "margin":0,
+         "name":"modernset_interior",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":7,
          "firstgid":1525,
-         "source":"src\/assets\/tableaux.tsx"
+         "image":"src\/assets\/tableaux.png",
+         "imageheight":128,
+         "imagewidth":224,
+         "margin":0,
+         "name":"tableaux",
+         "spacing":0,
+         "tilecount":28,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1553,
+         "image":"src\/assets\/ct.png",
+         "imageheight":256,
+         "imagewidth":512,
+         "margin":0,
+         "name":"ct",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":1681,
+         "image":"src\/assets\/modern.png",
+         "imageheight":224,
+         "imagewidth":320,
+         "margin":0,
+         "name":"modern",
+         "spacing":0,
+         "tilecount":70,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1751,
+         "image":"src\/assets\/fantasy.png",
+         "imageheight":288,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
